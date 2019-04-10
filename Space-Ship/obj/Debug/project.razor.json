@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/pavelkulakov/Desktop/Tests/SpaceShip/UniRx.Async.Editor.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
